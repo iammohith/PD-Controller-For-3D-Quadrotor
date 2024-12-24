@@ -64,7 +64,7 @@ $$
 
 ## Usage
 
-Clone this repository and run the `line_simulation.m` file for line trajectory and `helix_simulation.m` file for helix trajectory.
+Clone this repository and run the `line_simulation.m` file for line trajectory, `helix_simulation.m` file for helix trajectory, and `trajectory_simulation.m` file for generated trajectory.
 
 ## **File Structure**  
 
