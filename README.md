@@ -20,3 +20,10 @@ This project involves implementing a Proportional-Derivative (PD) control system
 ## Introduction
 
 The goal of this project is to gain familiarity with quadrotor dynamics and implement a Proportional-Derivative (PD) controller. The PD controller is designed to stabilize the motion of the quadrotor by adjusting the thrust and moment to achieve and maintain a specific trajectory.
+
+### Technical Details  
+
+The physical properties of the quadrotor are:
+- Mass ($m$) : 0.18($kg$)
+- Lenght of arm ($L$) : 0.086($m$)
+- Moment of Inertia ($I$) : $$\begin{bmatrix} 0.00025 & 0 & 2.55 \times 10^{-6} \\ 0 & 0.000232 & 0 \\ 2.55 \times 10^{-6} & 0 & 0.0003738 \end{bmatrix}$$ ($kgm^2$)
